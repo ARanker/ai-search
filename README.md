@@ -5,7 +5,7 @@
 ## 🛠️ 개발 환경
 - **OS:** Windows 11 (WSL2 Ubuntu 22.04 LTS환경에서 개발)
 - **Hardware:** RTX 3080 (GPU 가속 활용), Ryzen 5700X3D
-- **Language:** Python 3.12
+- **Language:** Python 3.14
 
 ---
 
